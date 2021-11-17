@@ -1,0 +1,36 @@
+{"frames": {
+
+"DragonBall4.png":
+{
+	"frame": {"x":0,"y":0,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"lab4SpriteSheet.png":
+{
+	"frame": {"x":64,"y":0,"w":1192,"h":1297},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1192,"h":1297},
+	"sourceSize": {"w":1192,"h":1297}
+},
+"Z_logo.png":
+{
+	"frame": {"x":1256,"y":0,"w":42,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":34},
+	"sourceSize": {"w":42,"h":34}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "lab4SpriteSheet.png",
+	"format": "RGBA8888",
+	"size": {"w":1298,"h":1297},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8da1d3b02f6274b5f30bc680478c4eae:056e7f649b14287a0dba11ceb96d40f2:1fa23d8f50e70b82585e227426336775$"
+}
+}

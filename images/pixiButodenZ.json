@@ -1,0 +1,92 @@
+{"frames": {
+
+"CloudScroll.png":
+{
+	"frame": {"x":0,"y":0,"w":1051,"h":317},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1051,"h":317},
+	"sourceSize": {"w":1051,"h":317}
+},
+"DragonBall4.png":
+{
+	"frame": {"x":1051,"y":0,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"Goku_Player.png":
+{
+	"frame": {"x":1115,"y":0,"w":108,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":142},
+	"sourceSize": {"w":108,"h":142}
+},
+"ki_blue.png":
+{
+	"frame": {"x":0,"y":317,"w":56,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":30},
+	"sourceSize": {"w":56,"h":30}
+},
+"ki_purple.png":
+{
+	"frame": {"x":56,"y":317,"w":56,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":30},
+	"sourceSize": {"w":56,"h":30}
+},
+"ki_yellow.png":
+{
+	"frame": {"x":112,"y":317,"w":56,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":30},
+	"sourceSize": {"w":56,"h":30}
+},
+"MountainScroll.png":
+{
+	"frame": {"x":168,"y":317,"w":1024,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":260},
+	"sourceSize": {"w":1024,"h":260}
+},
+"Sky_BG.png":
+{
+	"frame": {"x":0,"y":577,"w":1024,"h":720},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":720},
+	"sourceSize": {"w":1024,"h":720}
+},
+"Vegeta_DokkanButoden_AI.png":
+{
+	"frame": {"x":1024,"y":577,"w":94,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":142},
+	"sourceSize": {"w":94,"h":142}
+},
+"Z_logo.png":
+{
+	"frame": {"x":1118,"y":577,"w":70,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":57},
+	"sourceSize": {"w":70,"h":57}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "pixiButodenZ.png",
+	"format": "RGBA8888",
+	"size": {"w":1223,"h":1297},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:55acfe13a3c3e87b045388ba54a792a7:d1d405e7aa2b1d08c62475ed2db742a6:1fa23d8f50e70b82585e227426336775$"
+}
+}
